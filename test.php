@@ -10,7 +10,8 @@ echo 'even more changes';
 echo 'last change';
 
 
-$person = 'dani'
+$person = 'dani';
 
-    $people = [$person, $person];
+$people = [$person, $person];
 
+echo 'first change';
