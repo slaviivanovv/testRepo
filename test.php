@@ -8,3 +8,9 @@ echo 'test changes';
 echo 'even more changes';
 
 echo 'last change';
+
+
+$person = 'dani'
+
+    $people = [$person, $person];
+
